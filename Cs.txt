@@ -1,5 +1,2 @@
 
-this is new commit
-
-this is revert changes
-
+this is new commit 
