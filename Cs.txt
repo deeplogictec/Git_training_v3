@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 
 this is new commit 
 xvsquykhxfuqskxfqkx
 cmghdjgdrj
+=======
+this is for stashing
+>>>>>>> Stashed changes
